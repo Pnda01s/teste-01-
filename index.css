@@ -1,12 +1,16 @@
+header{
+    background-color: azure;
+}
+
 h1 {
     font-size: 80px;
     text-align: center;
 }
 
 nav li {
-    display: inline
+    display: inline;
 }
 
 nav a {
-    
+    font-size: 20px;
 }
